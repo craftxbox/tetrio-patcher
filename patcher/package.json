@@ -1,0 +1,20 @@
+{
+  "name": "tetrio-patcher",
+  "author": {
+    "name": "craftxbox"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/craftxbox/tetrio-patcher"
+  },
+  "license": "NCMIT",
+  "description": "Patch injector for TETR.IO desktop client. TETR.IO and TETR.IO desktop client is (C) osk 2019-2020",
+  "main": "main.js",
+  "dependencies": {
+    "asar": "*",
+    "diff": "*",
+    "sha256-file": "*",
+    "npm": "*",
+    "merge-trees": "*"
+  }
+}
